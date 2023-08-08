@@ -1,0 +1,46 @@
+/* .cat-1 {
+    width: 200px;
+    border-radius: 10px;
+}
+.cat-2 {
+    width:200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.cat-3 {
+    width:200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100px;
+} */
+
+.profile-picture {
+    width: 30px;
+    height:30px;
+    border-radius: 15px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+.text-box {
+    font-size: 10px;
+    border: none;
+    vertical-align: middle;
+    width: 300px;
+}
+.tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+  }

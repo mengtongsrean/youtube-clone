@@ -1,0 +1,144 @@
+    /* 12e*/
+
+/* div {
+    font-family: Arial;
+}
+
+.container {
+    border:1px solid;
+    width: 300px;
+    border-radius: 6px;
+    border-color: rgb(200, 200, 200);
+    margin-bottom: 100px;
+
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    margin-left: 12px;
+    margin-top: 12px;
+
+}
+
+.noti {
+    background-color: rgb(63, 140, 228);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+} */
+
+
+/* 12f */
+
+/* div {
+    font-family: Arial;
+}
+
+
+.flexbox {
+    border: none;
+    background-color: rgb(120, 82, 178);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.Home {
+    font-weight: bold;
+}
+
+
+.search {
+    width: 500px;
+    border: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px; 
+}
+.download {
+    background-color: rgb(120, 82, 178);
+  color: white;
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px
+} */
+
+
+div {
+    font-family: Arial;
+}
+
+
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+
+.picture {
+    width: 30px;
+    height:30px;
+    border-radius: 15px;
+    object-fit:cover;
+}
+
+.profile-picture {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.profile-info {
+    line-height: 20px;
+    width: 180px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.nickname {
+    color: rgb(148, 148, 148);
+}
+
+.ranking {
+    color: rgb(148, 148, 148);
+    font-size: 10px;
+}
+
+button {
+    background-color: rgb(96, 160, 203);
+    color: white;
+    padding:5px 10px 5px 10px;
+    border-radius: 4px;
+    border: none;
+}
+
+.follow-button {
+    flex: 1;
+}
